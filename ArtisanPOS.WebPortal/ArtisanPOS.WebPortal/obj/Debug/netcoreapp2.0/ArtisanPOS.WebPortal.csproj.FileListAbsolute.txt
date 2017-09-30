@@ -1,0 +1,11 @@
+F:\ArtisanPOS\ArtisanPOS.WebPortal\ArtisanPOS.WebPortal\bin\Debug\netcoreapp2.0\ArtisanPOS.WebPortal.deps.json
+F:\ArtisanPOS\ArtisanPOS.WebPortal\ArtisanPOS.WebPortal\bin\Debug\netcoreapp2.0\ArtisanPOS.WebPortal.runtimeconfig.json
+F:\ArtisanPOS\ArtisanPOS.WebPortal\ArtisanPOS.WebPortal\bin\Debug\netcoreapp2.0\ArtisanPOS.WebPortal.runtimeconfig.dev.json
+F:\ArtisanPOS\ArtisanPOS.WebPortal\ArtisanPOS.WebPortal\bin\Debug\netcoreapp2.0\ArtisanPOS.WebPortal.dll
+F:\ArtisanPOS\ArtisanPOS.WebPortal\ArtisanPOS.WebPortal\bin\Debug\netcoreapp2.0\ArtisanPOS.WebPortal.pdb
+F:\ArtisanPOS\ArtisanPOS.WebPortal\ArtisanPOS.WebPortal\obj\Debug\netcoreapp2.0\ArtisanPOS.WebPortal.csprojResolveAssemblyReference.cache
+F:\ArtisanPOS\ArtisanPOS.WebPortal\ArtisanPOS.WebPortal\obj\Debug\netcoreapp2.0\ArtisanPOS.WebPortal.csproj.CoreCompileInputs.cache
+F:\ArtisanPOS\ArtisanPOS.WebPortal\ArtisanPOS.WebPortal\obj\Debug\netcoreapp2.0\ArtisanPOS.WebPortal.AssemblyInfoInputs.cache
+F:\ArtisanPOS\ArtisanPOS.WebPortal\ArtisanPOS.WebPortal\obj\Debug\netcoreapp2.0\ArtisanPOS.WebPortal.AssemblyInfo.cs
+F:\ArtisanPOS\ArtisanPOS.WebPortal\ArtisanPOS.WebPortal\obj\Debug\netcoreapp2.0\ArtisanPOS.WebPortal.dll
+F:\ArtisanPOS\ArtisanPOS.WebPortal\ArtisanPOS.WebPortal\obj\Debug\netcoreapp2.0\ArtisanPOS.WebPortal.pdb
