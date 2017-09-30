@@ -1,0 +1,11 @@
+F:\ArtisanPOS\ArtisanAPI\ArtisanAPI\bin\Debug\netcoreapp2.0\ArtisanAPI.deps.json
+F:\ArtisanPOS\ArtisanAPI\ArtisanAPI\bin\Debug\netcoreapp2.0\ArtisanAPI.runtimeconfig.json
+F:\ArtisanPOS\ArtisanAPI\ArtisanAPI\bin\Debug\netcoreapp2.0\ArtisanAPI.runtimeconfig.dev.json
+F:\ArtisanPOS\ArtisanAPI\ArtisanAPI\bin\Debug\netcoreapp2.0\ArtisanAPI.dll
+F:\ArtisanPOS\ArtisanAPI\ArtisanAPI\obj\Debug\netcoreapp2.0\ArtisanAPI.csprojResolveAssemblyReference.cache
+F:\ArtisanPOS\ArtisanAPI\ArtisanAPI\obj\Debug\netcoreapp2.0\ArtisanAPI.csproj.CoreCompileInputs.cache
+F:\ArtisanPOS\ArtisanAPI\ArtisanAPI\obj\Debug\netcoreapp2.0\ArtisanAPI.AssemblyInfoInputs.cache
+F:\ArtisanPOS\ArtisanAPI\ArtisanAPI\obj\Debug\netcoreapp2.0\ArtisanAPI.AssemblyInfo.cs
+F:\ArtisanPOS\ArtisanAPI\ArtisanAPI\bin\Debug\netcoreapp2.0\ArtisanAPI.pdb
+F:\ArtisanPOS\ArtisanAPI\ArtisanAPI\obj\Debug\netcoreapp2.0\ArtisanAPI.dll
+F:\ArtisanPOS\ArtisanAPI\ArtisanAPI\obj\Debug\netcoreapp2.0\ArtisanAPI.pdb

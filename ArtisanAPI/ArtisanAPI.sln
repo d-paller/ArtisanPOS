@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtisanAPI", "ArtisanAPI\ArtisanAPI.csproj", "{77ADD51F-C0A7-4E5A-8C1B-741B1CB85EA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77ADD51F-C0A7-4E5A-8C1B-741B1CB85EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77ADD51F-C0A7-4E5A-8C1B-741B1CB85EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77ADD51F-C0A7-4E5A-8C1B-741B1CB85EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77ADD51F-C0A7-4E5A-8C1B-741B1CB85EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DD0615C-97B5-4196-9614-FDA87F340F31}
+	EndGlobalSection
+EndGlobal
